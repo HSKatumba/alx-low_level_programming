@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 
 
@@ -11,8 +11,10 @@ nclude <stdio.h>
 int main(void)
 
 {
+	char name[]="Voldemolt";
 
-		printf("Holberton School");
+		printf("Holberton School\n");
+		printf("He who must not be name, lord %s!!\n",name);
                 return (0);
 
 }
