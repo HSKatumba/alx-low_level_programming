@@ -3,7 +3,9 @@
  * using the function puts
  */
 
-int main(void)
+int main(void)/*
+		 *comment
+		 */
 {
 	/*
 	 * main function is entry point
