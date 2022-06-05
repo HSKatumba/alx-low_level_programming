@@ -4,6 +4,11 @@
 #include<stdio.h>
 /* message goes here */
 int main(void)
+/**
+*main - Entry point
+*Descroption
+*Retun 0
+*/
 {
 
 	char phase[] = "\"Programming is like building a multilingual puzzle";
