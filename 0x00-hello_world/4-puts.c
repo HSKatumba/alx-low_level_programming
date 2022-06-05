@@ -1,11 +1,12 @@
+/*
+ * comments here
+ */
 #include<stdio.h>
 /*
  * using the function puts
  */
 
-int main(void)/*
-		 *comment
-		 */
+int main(void)
 {
 	/*
 	 * main function is entry point
@@ -19,7 +20,4 @@ int main(void)/*
 	 *return0always
 	 */
 	return (0);
-	/*
-	 * must have
-	 */
 }
