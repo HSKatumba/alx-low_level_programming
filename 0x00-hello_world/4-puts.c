@@ -4,13 +4,8 @@
  * using the function puts
  */
 
-int main(void)/*
-		*comment insert here
-		*/
+int main(void)
 {
-	/*
-	 * main function is entry point
-	 */
 
 	char phase[] = "\"Programming is like building a multilingual puzzle";
 
