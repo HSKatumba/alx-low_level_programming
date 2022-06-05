@@ -2,7 +2,7 @@
 
 /**
 *main - Entry Point
-*Description: use puts function 
+*Description: use puts function
 *Return: Always 0 (success)
 */
 
