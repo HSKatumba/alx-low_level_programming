@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 /**
 *main - Entry Point
 *Description: use puts function 
@@ -11,7 +12,5 @@ int main(void)
 	char phase[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(phase);
-
-
 	return (0);
 }
