@@ -1,5 +1,9 @@
 #include<stdio.h>
-
+/**
+*This right here is the
+*description of the main 
+*function
+*/
 int main(void)
 {
 
