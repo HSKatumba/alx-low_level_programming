@@ -14,8 +14,7 @@ int main(void)
 	puts(phase);
 
 	/*
-	 * return 0 always 
-	 * success
+	 * return0always 
 	 */
 	return (0);
 }
