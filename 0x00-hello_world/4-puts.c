@@ -1,6 +1,4 @@
-/*
- * comments here
- */
+
 #include<stdio.h>
 /*
  * using the function puts
@@ -21,6 +19,3 @@ int main(void)
 	 */
 	return (0);
 }
-/*
- * comments
- */
