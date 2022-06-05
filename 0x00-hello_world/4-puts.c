@@ -3,7 +3,6 @@
 /*
  * using the function puts
  */
-
 int main(void)
 {
 
@@ -11,8 +10,6 @@ int main(void)
 
 	puts(phase);
 
-	/*
-	 *return0always
-	 */
+
 	return (0);
 }
