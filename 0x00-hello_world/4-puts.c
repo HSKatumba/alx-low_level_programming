@@ -1,4 +1,6 @@
-
+/*
+ * This is the description of the main
+ */
 #include<stdio.h>
 
 int main(void)
