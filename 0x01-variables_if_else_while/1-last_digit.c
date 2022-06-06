@@ -4,7 +4,7 @@
 
 /*
  * main - Entry Point
- * Description: The last digit
+ * description: The last digit
  * Return: Always 0 (success)
  */
 
@@ -19,11 +19,11 @@ int main(void)
 
 	if (last > 5)
 	{
-		printf("Last digit of %d is %d and is greater than 5\n", n , last);
+		printf("Last digit of %d is %d and is greater than 5\n", n, last);
 	}
 	else if (last == 0)
 	{
-		printf("Last digit of %d is %d and is 0\n", n , last);
+		printf("Last digit of %d is %d and is 0\n", n, last);
 	}
 	return (0);
 }
