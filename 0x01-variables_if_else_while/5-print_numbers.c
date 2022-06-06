@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main  entry point
@@ -9,8 +10,10 @@
 int main(void)
 {	
 	int num;
+
 	for (num = 0; num < 11; num++)
 	{
 		printf("%d\n", num);
 	}
+	return (0);
 }
