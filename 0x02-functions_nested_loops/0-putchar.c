@@ -1,5 +1,5 @@
 #include <stdlib.h>
-
+#include <main.h>
 /**
 *main - Entry Point
 * Description: Print random
