@@ -9,8 +9,5 @@
 
 int main(void)
 {
-	char alphabe[] = "abcdefghijklmnopqrstuvwxyz";
-	putchar
-	
-	return (0);
+
 }
