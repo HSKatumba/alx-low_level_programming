@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <stdlib.h>
 /**
  * main - Entry Point
  *
@@ -17,7 +18,7 @@ int main(void)
 {
 	printf("%d is zero\n",n);
 }
-	if-else(n > 0)
+	else if(n > 0)
 {
 	printf("%d is positive\n",n);
 }
